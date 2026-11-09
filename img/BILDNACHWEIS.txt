@@ -1,0 +1,9 @@
+Alle Fotos: Unsplash (https://unsplash.com/license), kostenlose Lizenz, kommerzielle Nutzung erlaubt, keine Namensnennung Pflicht.
+Vor Veröffentlichung auf unsplash.com prüfen, dass keines ein Unsplash+-Bild ist.
+Quelle jeweils https://images.unsplash.com/photo-<ID>
+hero.jpg         1771531072574-af6ed6b954c0  (Craftsman Concrete Floors)
+prep.jpg         1772305595483-6b058aff40f9  (Craftsman Concrete Floors)
+g-crew.jpg       1772300164438-f73307d3b645  (Craftsman Concrete Floors)
+g-parking.jpg    1704786450243-fe590b6bc9d3  (Koen meyssen)
+g-warehouse.jpg  1772300704502-410f0fbd43bb  (Craftsman Concrete Floors)
+flake-*.jpg      selbst erzeugt (Python/Pillow, scratchpad/flakes.py), keine Fremdrechte

@@ -1,0 +1,2 @@
+/* Schrift lokal (variabler Font, Latin), kein Google-Server */
+@font-face{font-family:'Inter';font-style:normal;font-weight:400 600;font-display:swap;src:url(inter.woff2) format('woff2')}
